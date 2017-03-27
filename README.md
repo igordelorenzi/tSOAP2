@@ -1,0 +1,1 @@
+# A Talend Open Studio modified component for SOAP communication using UsernameToken Profile 1.1 (WSS)
