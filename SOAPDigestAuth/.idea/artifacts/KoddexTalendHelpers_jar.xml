@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KoddexTalendHelpers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KoddexTalendHelpers_jar</output-path>
+    <root id="archive" name="KoddexTalendHelpers.jar">
+      <element id="module-output" name="KoddexTalendHelpers" />
+    </root>
+  </artifact>
+</component>
